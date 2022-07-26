@@ -1,4 +1,3 @@
-
 aa=int(input("enter 3 number"))
 b=int(input())
 c=int(input())
